@@ -1,0 +1,24 @@
+h1{
+    background-color: beige;
+    font-weight: 500px;
+}
+#division1{
+    border: 0 solid #80808059;
+    padding-left: 300px;
+    width: 50%;
+}
+.about-photo{
+    color: #0808f3;
+}
+#division2{
+    border: 1px solid #898a8798;
+    border-radius: 5px;
+    background-color: mediumpurple;
+    padding-left: 5px;
+}
+body{
+    background-color: #c4b0de0a;
+}
+#division0{
+    background-color: rgba(124, 104, 238, 0.466);
+}
